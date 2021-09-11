@@ -1,0 +1,24 @@
+
+final_evaluation:
+loss = 0.421
+post pruning mention precision = 0.248
+post pruning mention recall = 0.961
+post pruning mention f1 = 0.395
+mention precision = 0.893
+mention recall = 0.878
+mention f1 = 0.886
+precision = 0.812
+recall = 0.795
+f1 = 0.804
+
+final_evaluation:
+loss = 0.421
+post pruning mention precision = 0.248
+post pruning mention recall = 0.961
+post pruning mention f1 = 0.395
+mention precision = 0.893
+mention recall = 0.878
+mention f1 = 0.886
+precision = 0.812
+recall = 0.795
+f1 = 0.804
